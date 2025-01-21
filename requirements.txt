@@ -1,9 +1,10 @@
 numpy
 matplotlib
+statsmodels==0.14.4
+patsy==1.0.1
+pandas==2.2.2
 scipy
 scikit-learn
-statsmodels
 tqdm
-pandas
 ipykernel
 seaborn
